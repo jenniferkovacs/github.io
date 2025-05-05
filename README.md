@@ -1,5 +1,5 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Jennifer Kovacs, Ph.D.
+**Connecting Curiosity, Community, and Scientific Discovery**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
