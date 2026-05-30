@@ -12,7 +12,6 @@ Associate Professor of Biology | Agnes Scott College | Decatur, GA
 - jkovacs at agnesscott.edu
 - [Professional Website](https://jkovacs.agnesscott.org/)
 - [GitHub](https://github.com/jenniferkovacs)
-- [LinkedIn](https://www.linkedin.com/in/jennifer-kovacs-b43020117/)
 - [Google Scholar](https://scholar.google.com/citations?user=lX-QMPoAAAAJ&hl=en&oi=ao)
 
 ---
