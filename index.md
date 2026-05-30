@@ -1,5 +1,5 @@
 
-#Ask Big. Dig Deep. Discover Together.#
+*Ask Big. Dig Deep. Discover Together.*
 
 ![profile pic](/img/IMG_6139%20(2).jpeg)
 
