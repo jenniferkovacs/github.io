@@ -58,6 +58,6 @@ I am excited to build fluency in Python and open Earth data workflows so I can b
 - How can open Earth data tools and workflows be integrated into authentic undergraduate research experiences that are accessible to students from all backgrounds and institutions?
 
 
-![students](/img/IMG_3969.HEIC)
+![students](/img/IMG_3969.jpg)
 
 
