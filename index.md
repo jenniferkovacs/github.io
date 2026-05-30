@@ -1,7 +1,7 @@
 # Jennifer Kovacs, Ph.D.
 *Ask Big. Dig Deep. Discover Together.*
 
-![profile puc!](/img/IMG_6139 (2).jpeg)
+![profile pic](/img/IMG_6139%20(2).jpeg)
 
 Associate Professor of Biology | Agnes Scott College | Decatur, GA
 
