@@ -56,3 +56,8 @@ I am excited to build fluency in Python and open Earth data workflows so I can b
 - At what spatial and temporal scales does urbanization homogenize biological communities, and are there landscape conditions that support unexpected urban biodiversity?
 - How do landscape connectivity and habitat fragmentation influence the distribution of arthropod communities in rapidly urbanizing areas like metro Atlanta?
 - How can open Earth data tools and workflows be integrated into authentic undergraduate research experiences that are accessible to students from all backgrounds and institutions?
+
+
+![students](/img/IMG_3969.HEIC)
+
+
