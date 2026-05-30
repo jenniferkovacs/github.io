@@ -1,2 +1,2 @@
 # github.io
-Professional Page
+Ask Big · Dig Deep · Discover Together 
