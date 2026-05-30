@@ -59,4 +59,11 @@ I am excited to build fluency in Python and open Earth data workflows so I can b
 
 <img src="img/IMG_3969.jpg" alt="Students!" width="50%">
 
+## Projects
 
+### Vespula Wing Shape & Caste Genetics
+[![Wing shape figure](https://raw.githubusercontent.com/jenniferkovacs/vespula-wingshape-caste-genetics/main/figures/Figure1.png)](https://github.com/jenniferkovacs/vespula-wingshape-caste-genetics)
+
+Analysis of wing shape divergence and genetic correlations between castes in the yellowjacket wasp *Vespula maculifrons*. All analyses and figures are fully reproducible from raw data to final manuscript.
+
+[View code →](https://github.com/jenniferkovacs/vespula-wingshape-caste-genetics)
