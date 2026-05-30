@@ -9,7 +9,7 @@ Associate Professor of Biology | Agnes Scott College | Decatur, GA
 
 ## Contact & Links
 
-- 📧 [jkovacs@agnesscott.edu](mailto:jkovacs@agnesscott.edu)
+- 📧 [jkovacs at agnesscott.edu]
 - 🌐 [Professional Website](https://jkovacs.agnesscott.org/)
 - 🐙 [GitHub](https://github.com/jenniferkovacs)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jennifer-kovacs-b43020117/)
