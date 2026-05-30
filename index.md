@@ -59,6 +59,8 @@ I am excited to build fluency in Python and open Earth data workflows so I can b
 
 <img src="img/IMG_3969.jpg" alt="Students!" width="50%">
 
+---
+
 ## Projects
 
 ### Vespula Wing Shape & Caste Genetics
@@ -67,3 +69,12 @@ I am excited to build fluency in Python and open Earth data workflows so I can b
 Analysis of wing shape divergence and genetic correlations between castes in the yellowjacket wasp *Vespula maculifrons*. All analyses and figures are fully reproducible from raw data to final manuscript.
 
 [View code →](https://github.com/jenniferkovacs/vespula-wingshape-caste-genetics)
+
+---
+
+### Resilient but Unreliable: Cross-Generational Gut Microbiome Dynamics
+[![Shannon diversity trajectories](https://raw.githubusercontent.com/KEokamoto/RFB_resilience/main/figures/Fig7_shannon_diversity_trajectories.png)](https://github.com/KEokamoto/RFB_resilience)
+
+Cross-generational restructuring of the *Tribolium castaneum* gut microbiome under contrasting nutritional regimes. A four-generation experimental design investigating microbiome resilience, reliability, and history-dependent community assembly. Led by undergraduate researcher Esther Okamoto.
+
+[View code →](https://github.com/KEokamoto/RFB_resilience)
