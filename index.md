@@ -57,10 +57,6 @@ I am excited to build fluency in Python and open Earth data workflows so I can b
 - How do landscape connectivity and habitat fragmentation influence the distribution of arthropod communities in rapidly urbanizing areas like metro Atlanta?
 - How can open Earth data tools and workflows be integrated into authentic undergraduate research experiences that are accessible to students from all backgrounds and institutions?
 
-<img 
-  src="IMG_3969.jpg" 
-  alt="Students!" 
-  width="25%">
-
+<img src="IMG_3969.jpg" alt="Students!" width="25%">
 
 
