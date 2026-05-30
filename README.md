@@ -1,1 +1,1 @@
-This is the source for Jennifer Kovacs' GitHub Pages site.
+Source for Jennifer Kovacs' GitHub Pages site.
