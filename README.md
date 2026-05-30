@@ -1,2 +1,1 @@
-# jenniferkovacs.github.io
-Ask Big · Dig Deep · Discover Together 
+This is the source for Jennifer Kovacs' GitHub Pages site.
