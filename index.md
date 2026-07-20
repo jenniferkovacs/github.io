@@ -79,4 +79,4 @@ Cross-generational restructuring of the *Tribolium castaneum* gut microbiome und
 [View code →](https://github.com/KEokamoto/RFB_resilience)
 
 ### Plot of Boulder Temperature
-<img src="img/boulder_plot.html>
+<iframe src="img/boulder_plot.html" width="800" height="600" style="border:none;"></iframe>
