@@ -77,3 +77,6 @@ Analysis of wing shape divergence and genetic correlations between castes in the
 Cross-generational restructuring of the *Tribolium castaneum* gut microbiome under contrasting nutritional regimes. A four-generation experimental design investigating microbiome resilience, reliability, and history-dependent community assembly. Led by undergraduate researcher Esther Okamoto.
 
 [View code →](https://github.com/KEokamoto/RFB_resilience)
+
+### Plot of Boulder Temperature
+<img src="img/boulder_plot.html>
